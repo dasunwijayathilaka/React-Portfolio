@@ -21,7 +21,7 @@ const Home: React.FC = () => {
                 <div className={`hero-content ${isVisible ? 'fade-in' : ''}`}>
                     <div className="hero-text">
                         <h1 className="hero-title">
-                            Hello, I'm <span className="highlight">John Doe</span>
+                            Hello, I'm <span className="highlight">Dasun Wijayathilaka</span>
                         </h1>
                         <h2 className="hero-subtitle">Full Stack Developer</h2>
                         <p className="hero-description">
@@ -47,10 +47,10 @@ const Home: React.FC = () => {
                     <div className="hero-visual">
                         <div className="profile-card">
                             <div className="profile-image">
-                                <div className="placeholder-avatar">JD</div>
+                                <div className="placeholder-avatar">DW</div>
                             </div>
                             <div className="profile-info">
-                                <h3>John Doe</h3>
+                                <h3>Dasun Wijayathilaka</h3>
                                 <p>Full Stack Developer</p>
                                 <div className="status-indicator">
                                     <span className="status-dot"></span>

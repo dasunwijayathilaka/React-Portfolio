@@ -49,6 +49,16 @@ const Navbar: React.FC = () => {
                             </a>
                         </li>
                         <li>
+                            <a href="#services" onClick={() => handleNavClick('services')}>
+                                Services
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#projects" onClick={() => handleNavClick('projects')}>
+                                Projects
+                            </a>
+                        </li>
+                        <li>
                             <a href="#contact" onClick={() => handleNavClick('contact')}>
                                 Contact
                             </a>
